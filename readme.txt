@@ -18,7 +18,7 @@ Header image created by [@luchino__](https://twitter.com/luchino__)
 
 Easy to use it!
 
-1. 'Add new' ans save.
+1. 'Add new' and save.
 2. Remember 'post id'. You can find it on url `/wp-admin/post.php?post=10&action=edit`
 3. Edit your post, input `[wcm-show id=post_id]`, save.
 

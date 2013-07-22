@@ -12,6 +12,7 @@ Provides Shortcodes to display and manage your Campaign banners. Useful!
 == Description ==
 
 WP Campaign Manager, it is possible to simply add a shortcode to display the campaign banners while posts. Possible to manage the campaign on the dashboard. Super useful.
+Header image created by [@luchino__](https://twitter.com/luchino__)
 
 = Usage =
 

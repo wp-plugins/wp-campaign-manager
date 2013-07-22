@@ -1,5 +1,5 @@
 === WP Campaign Manager ===
-Contributors: luchino__
+Contributors: tomotomobile
 Tags: shortcode, post, marketing
 Requires at least: 3.5.2
 Tested up to: 3.5.2

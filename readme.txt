@@ -3,7 +3,7 @@ Contributors: tomotomobile
 Tags: shortcode, post, marketing, campaign
 Requires at least: 3.5.2
 Tested up to: 3.7.1
-Stable tag: 0.1.1
+Stable tag: 0.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,13 +36,14 @@ You will find 'Campaigns' menu in your WordPress admin panel.
 You may mean [TinyMCE Templates](http://wordpress.org/plugins/tinymce-templates/) or . If you want to manage marketing campaigns, have to use WP Campaign manager. This plugin is for marketers.
 
 == Screenshots ==
-1.screenshot-1.png
+screenshot-1.png
 
 == Changelog ==
 
 = 0.1 =
 beta version.
 
+* 0.1.2 bugfix for PHP5.2
 * 0.1.1 Implove UI.
 * 0.1 First release.
 
